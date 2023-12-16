@@ -1,0 +1,57 @@
+.incomecard{
+    height: 100%;
+   width: 100%;
+   margin-top: 50px;
+   width: 50%;
+   margin-left: 25%;
+   border-radius: 10px;
+   background-color: rgb(237, 233, 233);
+   box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+}
+.name{
+    font-size: 23px;
+    margin-top: 50px;
+    margin-left: 20px;
+    }
+.name1{
+    font-size: 23px;
+    margin-left: 20px;
+        }
+ .inputs{
+    margin-top: 50px;
+    box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+   
+    }
+    .input1{
+        box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+
+    }
+ .annaimag{
+  height: 120px;
+  width: 120px;
+    }
+.annaimagecol{ 
+ margin-left: 20%;     
+ }
+ .annaformat{
+    margin-left: -120%;
+    margin-top: 50px;
+ }
+ .outer{
+    box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+    margin-right: 20px;
+    margin-left: 20px;
+ }
+ .innerlogo{
+    box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+    margin-left: 40px;
+    margin-right: 40px;
+ }
+ .lastcol{
+    margin-right: 5%;
+ }
+ .reason{
+    height: 200px;
+    padding:10px 10px 10px
+
+ }

@@ -1,0 +1,61 @@
+
+
+.centercardpage{
+    width: 50%;
+   margin-top: 50px;
+   margin-left: 25%;
+   background-color: rgb(237, 233, 233);
+   border-radius: 10px;
+   height:auto;
+   box-shadow: 1px 2px 3px 2px rgb(210, 204, 204, 204);
+}
+  
+
+
+logout{
+    width: 13%;
+    margin-left: 70%;
+    margin-top: 20px;
+    height: 10%;
+    color: white;
+    background-color: #dc3545;
+    border-radius: 3px;
+    font-size: 16px;
+    margin-top: 30px;
+    border: none;
+  }
+  .annaimag{
+    height: 120px;
+    width: 120px;
+      }
+  .annaimagecolpage{ 
+   margin-left: 20%;     
+   }
+   .annaformat2{
+      margin-left: -110%;
+    
+   }
+   .outerpage{
+      box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+      margin-right: 20px;
+      margin-left: 20px;
+      margin-top: 20px;
+   }
+   .innerlogopage{
+      box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+      margin-left: 40px;
+      margin-right: 40px;
+   }
+
+
+   .linklist{
+    text-decoration: none;
+    color: black;
+   }
+   .linklist:hover{
+    color: grey;
+  }
+
+   .ol,li{
+    margin-top: 2px;
+   }

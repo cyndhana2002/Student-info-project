@@ -1,0 +1,51 @@
+.centercard{
+    height: 100%;
+    width: 100%;
+   margin-top: 50px;
+   width: 50%;
+   margin-left: 25%;
+   background-color: rgb(237, 233, 233);
+   border-radius: 10px;
+   box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+}
+
+  .link{
+    text-decoration: none;
+    color: white;
+  }
+  .link:hover{
+    color: white;
+  }
+  .PROCEED{
+    width: 15%;
+    margin-left: 70%;
+    margin-top: 20px;
+  }
+  .BACK{
+    width: 15%;
+    margin-left: 70%;
+    margin-top: 20px;
+  }
+  .annaimag{
+    height: 120px;
+    width: 120px;
+      }
+  .annaimagecol{ 
+   margin-left: 20%;     
+   }
+   .annaformat{
+      margin-left: -120%;
+      margin-top: 10px;
+   }
+   .outer{
+      box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+      margin-right: 20px;
+      margin-left: 20px;
+      margin-top: 20px;
+   }
+   .innerlogo{
+      box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+      margin-left: 40px;
+      margin-right: 40px;
+      
+   }

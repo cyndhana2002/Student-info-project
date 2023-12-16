@@ -1,0 +1,82 @@
+.rollno{
+    font-weight: 500;
+    font-size: 22px;
+    margin-left: 160px;
+}
+
+.input{
+    margin-left: 20px;
+    border-radius: 3px;
+    border: none;
+    width: 45%;
+    margin-top: -10px;
+}
+
+.centercard{
+  height: 100%;
+    width: 100%;
+   margin-top: 50px;
+   width: 50%;
+   margin-left: 25%;
+   background-color: rgb(237, 233, 233);
+   border-radius: 10px;
+   box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+}
+  .link{
+    text-decoration: none;
+    color: white;
+  }
+  .link:hover{
+    color: white;
+  }
+
+  .proceed {
+    width: 14%;
+    color: white;
+    background-color: blueviolet;
+    margin-left: 320px;
+    border-radius: 3px;
+    font-size: 16px;
+    margin-top: 30px;
+    border: none;
+    height: 30px;
+  }
+  .logout{
+    width: 13%;
+    margin-left: 70%;
+    margin-top: 20px;
+    height: 10%;
+    color: white;
+    background-color: #dc3545;
+    border-radius: 3px;
+    font-size: 16px;
+    margin-top: 30px;
+    border: none;
+    height: 30px;
+  }
+  .annaimag{
+    height: 120px;
+    width: 120px;
+      }
+  .annaimagecol{ 
+   margin-left: 20%;     
+   }
+   .annaformat1{
+      margin-left: -110%;
+      margin-top: 50px;
+   }
+   .outer{
+      box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+      margin-right: 20px;
+      margin-left: 20px;
+      margin-top: 20px;
+   }
+   .innerlogo{
+      box-shadow: 1px 2px 3px 2px rgb(210, 204, 204);
+      margin-left: 40px;
+      margin-right: 40px;
+   }
+
+   .bonefide{
+    margin-top: 40px;
+   }
